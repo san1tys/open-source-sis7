@@ -1,1 +1,1 @@
-# open-source-sis7
+This repository is for practicing the GitHub workflow: creating issues, making changes in a separate branch, and opening and merging pull requests.
